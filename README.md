@@ -7,7 +7,7 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: type32alt@outlook.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I almost committed suicide at the age of 15
+- ⚡ Fun fact: I like solitude
 
 ### Languages I know
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
