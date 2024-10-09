@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Web Full-Stack Development & Game Design + Development
+- 🔭 I’m currently working on Game Design + Development
 - 🌱 I’m currently learning Game Design & Web Development
+- I know Web Full-Stack Development
+- I've developed a few games so far that aren't yet released
+- My main engine choice is Unity
 - 👯 I’m looking to collaborate on Game Design Projects
 - 🤔 I’m looking for help with Web-Backend Development
 - 💬 Ask me about ...
