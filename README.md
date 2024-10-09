@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Vertex](https://github.com/Type-32/vertex) and [UltimateFrisbee](https://github.com/Type-32/UltimateFrisbee)
+- 🔭 I’m currently working on [Vertex](https://github.com/Type-32/vertex)(I privated this repository for now) and [UltimateFrisbee](https://github.com/Type-32/UltimateFrisbee)
 - 🌱 I’m currently learning Game Design & Web Development
 - I do Full-Stack Web Dev
 - I've developed a few games so far that aren't yet released
