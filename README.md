@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Game Design & Web Development
 - I do Full-Stack Web Dev
 - I've developed a few games so far that aren't yet released
-- My main engine choice is Unity/Godot (Still learning right now)
+- My main engine choice is Unity/Godot (Still Godot learning right now)
 - 👯 I’m looking to collaborate on Game Design Projects
 - 🤔 I’m looking for help with Web-Backend Development
 - 💬 Ask me about ...
