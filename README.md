@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [Amulet](https://github.com/Type-32/Amulet)(I privated this repository for now), [UltimateFrisbee Website](https://github.com/Type-32/UltimateFrisbee), and [General Purpose PDA with ESP32-S3](https://github.com/Type-32/GeneralPurposePDA)
-- 🌱 I’m currently learning Game Design & Web Development
+- 🌱 I’m currently learning Game Design & Web Development & Minecraft Fabric/NeoForge Mod Development
 - I do Full-Stack Web Dev
 - I've developed a few games so far that aren't yet released
 - My main engine choice is Unity/Godot (Still Godot learning right now)
