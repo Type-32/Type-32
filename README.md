@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [UltimateFrisbee Website](https://github.com/Type-32/UltimateFrisbee) and [General Purpose PDA with ESP32-S3](https://github.com/Type-32/GeneralPurposePDA)
+- 🔭 I’m currently working on [Amulet](https://github.com/CRTL-Prototype-Studios/Amulet)
 - My main engine choice is Unity/Godot (Still learning Godot right now)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like solitude
