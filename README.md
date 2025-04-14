@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Amulet](https://github.com/CRTL-Prototype-Studios/Amulet)
-- My main engine choice is Unity/Godot (Still learning Godot right now)
+- 🔭 I’m currently working on [Amulet](https://github.com/CRTL-Prototype-Studios/Amulet) and [Slate](https://github.com/CRTL-Prototype-Studios/slate)
+- My main engine choice is Unity/Godot
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like solitude
 
