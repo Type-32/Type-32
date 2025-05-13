@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Simple Card Maker](https://github.com/CRTL-Prototype-Studios/simple-cark-maker) and [Slate](https://github.com/CRTL-Prototype-Studios/slate)
+- 🔭 I’m currently working on [Simple Card Maker](https://github.com/CRTL-Prototype-Studios/simple-card-maker) and [Slate](https://github.com/CRTL-Prototype-Studios/slate)
 - My main engine choice is Unity/Godot
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like solitude
